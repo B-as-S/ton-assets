@@ -2899,6 +2899,11 @@
   "symbol": "USD\u20ae"
  },
  {
+  "address": "0:a5abdaf5e0b1dbb3f6f16cbfca5d4225394418bc5da3db52db77764b776c18ed",
+  "name": "SOS",
+  "symbol": "SOS"
+ },
+ {
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
